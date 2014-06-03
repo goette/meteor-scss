@@ -11,7 +11,7 @@ Package._transitional_registerBuildPlugin({
     npmDependencies: {
         'node-sass': '0.8.6',
         'lodash': '2.4.1',
-        'autoprefixer': 'latest'
+        'autoprefixer': '1.1.20140523'
     }
 });
 
